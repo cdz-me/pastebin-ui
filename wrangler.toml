@@ -5,11 +5,11 @@ main = "src/index.ts"
 workers_dev = false
 
 vars = { ENVIRONMENT = "production" }
-route = { pattern = "paste.lius.me", custom_domain = true }
+route = { pattern = "paste.430382.xyz", custom_domain = true }
 
 kv_namespaces = [
-  { binding = "PB", id = "092a5f3423374cf98709dd7b27b30adf" },
-  { binding = "PBIMGS", id ="3854f57b71db4f14a0b3ba4cc93b6b6a" }
+  { binding = "PB", id = "9bad3470bfed478690249012796eb33e" },
+  { binding = "PBIMGS", id ="f9bcb73a08f74e71bf838e606647f137" }
 ]
 
 [site]
